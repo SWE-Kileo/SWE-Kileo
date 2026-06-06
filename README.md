@@ -15,4 +15,4 @@
 *(Coming soon — first project drops this term!)*
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://readme-stats.vercel.app/api?username=SWE-Kileo&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=SWE-Kileo&color=blue)
