@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Innocent Kileo 👋
 
-<!--
-**SWE-Kileo/SWE-Kileo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at University of the People  
+📍 Dar es Salaam, Tanzania  
+💻 Currently learning: Java, Python, MySQL  
+🚀 Building: real projects from my coursework  
+📫 Reach me: innokileo76@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C, Java, Python (learning)
+- **Tools:** VS Code, Git, GitHub
+- **Databases:** MySQL (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+*(Coming soon — first project drops this term!)*
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWE-kileo&show_icons=true&theme=default)
