@@ -15,4 +15,4 @@
 *(Coming soon — first project drops this term!)*
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SWE-Kileo&show_icons=true&theme=default)
+(https://github-readme-stats.vercel.app/api?username=SWE-Kileo&show_icons=true&theme=default)
