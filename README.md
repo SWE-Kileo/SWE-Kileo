@@ -8,6 +8,7 @@
 
 ## 🛠️ Skills
 - **Languages:** C, Java, Python (learning)
+- **Web:** HTML, CSS
 - **Tools:** VS Code, Git, GitHub
 - **Databases:** MySQL (learning)
 
